@@ -11,6 +11,7 @@
 10-no_more_js  deletes all the regular files (not the directories) with a .js
 11-directories  counts the number of directories and sub-directories in the current directory
 12-newest_files  displays the 10 newest files in the current directory.
+13-unique a list of words as input and prints only words that appear exactly once.
 20-hiago removes all letters c and C from input
 21-reverse reverse its input
 22-users_and_homes displays all users and their home directories, sorted by users
