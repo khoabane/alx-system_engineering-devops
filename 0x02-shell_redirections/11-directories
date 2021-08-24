@@ -1,5 +1,6 @@
 #!/bin/bash
-find . -type d -ls | wc -l
+ls -lRa | wc -l
+
 
 
 
