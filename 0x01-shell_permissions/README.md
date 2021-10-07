@@ -22,3 +22,4 @@ You are not allowed to use commas for this script
 Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
+9-John_Doe sets the mode of the file hello
