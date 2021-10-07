@@ -7,3 +7,6 @@ You can assume that the user betty will exist when we will run your script
 2-groups  script that prints all the groups the current user is part of.
 3-new_owner changes the owner of the file hello to the user betty.
 4-empty creates an empty file called hello.
+5-execute adds execute permission to the owner of the file hello.
+
+The file hello will be in the working directory
