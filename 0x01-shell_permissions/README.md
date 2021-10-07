@@ -17,3 +17,8 @@ The file hello will be in the working directory
 
 The file hello will be in the working directory
 You are not allowed to use commas for this script
+8-James_Bond sets the permission to the file hello as follows:
+
+Owner: no permission at all
+Group: no permission at all
+Other users: all the permissions
